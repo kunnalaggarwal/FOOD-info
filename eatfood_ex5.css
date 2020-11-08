@@ -1,0 +1,49 @@
+.content{
+    border:5px solid white;
+    background-color: white;
+    ;
+}
+header{
+    background-color: rgb(196,226,255);
+    text-align: right;
+}
+
+    
+
+
+#p1,#p2,#p3,#p4{
+    border: 5px solid white;
+    background-color: rgb(196,226,255);
+    overflow : auto;
+    
+    
+    
+    
+}
+footer{
+    text-align: center;
+}
+
+
+body{
+    background-image: url(background.jpg.gif);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: sans-serif;
+}
+img{
+    float: right;
+    clear: right;
+    position: static;
+    
+}
+nav{
+    border: 5px solid white;
+    background-color: rgb(196,226,255);
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 1000px;
+    width: 150px;
+    float: left;
+
+}
